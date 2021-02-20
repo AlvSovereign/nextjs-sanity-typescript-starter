@@ -4,8 +4,8 @@
     "name": "nextjs-sanity-typescript-starter"
   },
   "api": {
-    "projectId": "l5ac8kt7",
-    "dataset": "production"
+    "projectId": "yourOwnProjectId",
+    "dataset": "yourOwnDataset"
   },
   "plugins": [
     "@sanity/base",
